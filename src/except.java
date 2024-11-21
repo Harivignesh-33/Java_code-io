@@ -8,6 +8,6 @@ public class except {
         } catch (ArithmeticException E) {
             System.out.println("b is  zero");
         }
-        System.out.println("hello");
+        System.out.println("helloo");
     }
 }
